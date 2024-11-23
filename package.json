@@ -1,0 +1,20 @@
+{
+  "name": "DevOps-git-puzzle",
+  "version": "1.0.0",
+  "description": "Your team just received a notification that the latest deployment failed. The deployment logs suggest that a recent commit introduced a bug causing the build to break. Your task is to inspect the Git repository, identify the bad commit, and revert to the last stable version.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravind-pendyala24/DevOps-git-puzzle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aravind-pendyala24/DevOps-git-puzzle/issues"
+  },
+  "homepage": "https://github.com/Aravind-pendyala24/DevOps-git-puzzle#readme"
+}
