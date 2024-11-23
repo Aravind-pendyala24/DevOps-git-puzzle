@@ -22,9 +22,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: |
-            npm init -y
-            cat package.json
+        run: npm ci
 
       - name: Build application
         run: npm run build
